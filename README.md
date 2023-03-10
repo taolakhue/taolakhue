@@ -62,4 +62,4 @@
 
 [website]: https://taolakhue.github.io/my_dummy_space/
 [instagram]: https://www.instagram.com/khuebachom/
-[linkedin]: www.linkedin.com/in/maikhuetran
+[linkedin]: https://www.linkedin.com/in/maikhuetran
