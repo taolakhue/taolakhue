@@ -16,8 +16,8 @@
 [![website](images/globe-light.svg)](https://taolakhue.github.io/my_dummy_space/#gh-light-mode-only)
 [![website](images/globe-dark.svg)](https://taolakhue.github.io/my_dummy_space/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](images/linkedin-light.svg)](www.linkedin.com/in/maikhuetran#gh-light-mode-only)
-[![website](images/linkedin-dark.svg)](www.linkedin.com/in/maikhuetran#gh-dark-mode-only)
+[![website](images/linkedin-light.svg)](https://www.linkedin.com/in/maikhuetran#gh-light-mode-only)
+[![website](images/linkedin-dark.svg)](https://www.linkedin.com/in/maikhuetran#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](images/instagram-light.svg)](https://www.instagram.com/khuebachom/#gh-light-mode-only)
 [![website](images/instagram-dark.svg)](https://www.instagram.com/khuebachom/#gh-dark-mode-only)
